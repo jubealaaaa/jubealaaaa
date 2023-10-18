@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jubealaaaa
-- 👀 I’m interested in soccer, music, write, cooking,   ...
-- 🌱 I’m currently learning english...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in soccer, music, write, cooking
+- 🌱 I’m currently learning english
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
-<!---
-jubealaaaa/jubealaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://akamai.sscdn.co/uploadfile/letras/fotos/2/1/3/b/213b739c1418a77f39d4719787d6a03d.jpg)
